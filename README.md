@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+<!-- # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
@@ -41,4 +41,19 @@ If you want to contact me you can reach me at [Twitter](https://www.x.com/codewi
 
 ## License
 
-MIT
+MIT -->
+# Personal Portfolio
+
+This is my personal portfolio website built using HTML, CSS, and JavaScript.  
+It contains two main sections:  
+-**About**- Gives a brief about me
+- **Resume** – Brief overview of my location, skills, education, and work experience  
+- **Contact** – Where to get in touch with me  
+
+<!-- ## Live Demo
+[View Portfolio](https://your-portfolio-link.com) -->
+
+## Contact
+Email: lineshagarapati@gmail.com 
+<!-- LinkedIn: https://linkedin.com/in/yourprofile  
+GitHub: https://github.com/yourusername -->
