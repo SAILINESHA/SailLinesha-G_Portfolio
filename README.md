@@ -46,7 +46,7 @@ MIT -->
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript.  
 It contains two main sections:  
--**About**- Gives a brief about me
+- **About** – Brief about me  
 - **Resume** – Brief overview of my location, skills, education, and work experience  
 - **Contact** – Where to get in touch with me  
 
